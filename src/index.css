@@ -1,4 +1,11 @@
-h1{
-    background-color: aqua;
+body{
+    background-color: rgb(232, 139, 139);
     text-align: center;
+    font-size: 1.4rem;
+}
+
+h1{
+    background-image: linear-gradient(to top, rgb(184, 76, 76), transparent);
+    text-align: center;
+    margin: 3px;
 }
